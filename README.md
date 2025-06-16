@@ -1,5 +1,7 @@
 # 🏐 Planilha Liga das Nações de Volei Masculino VNL – 2025
 
+***Atualizada** com os resultados da primeira semana (15/06/2025)*
+
 Esta planilha contém informações e recursos relacionados à VNL Masculina 2025.
 
 - Tabela dinâmica de Classificação das Equipes
